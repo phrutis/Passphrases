@@ -46,13 +46,6 @@ RTX 3090 180 Mkey/s = 4 days (one range)</br>
 RTX 3070 120 Mkey/s = 8 days (one range)</br>
 RTX 2070 30 Mkey/s = 20 days (one range)</br>
 
-Add a telegram [**Passphrases**](https://t.me/+7Gmy37ym-rRhZjNi) </br>
-**Don't join if**
-- Your gpu is below RTX 2070</br>
-- You are just interested, but you are not going to participate either.</br>
-- Ask questions not related to the challenge.</br>
-- Who is not looking but only talking will be removed from the group!
-
 ## Frequently asked Questions
 ### Question answer:
 
