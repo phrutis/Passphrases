@@ -119,6 +119,14 @@ You need to download the old driver from six months ago. 496.13</br>
 Delete the new driver, install the old driver, the speed will increase x2</br>
 After searching, you can install new drivers.<hr>
 
+What is a range?</br>
+This is a small part of the given symbols for passing a certain segment.</br>
+Example range 7777</br>
+passes:</br>
+Start: aabbccddd</br>
+aabbccdde --> aabbcxxxx</br>
+Finish: aacczzzzzz<hr>
+
 Is this theft?</br>
 If the found address is 7-10 years old without movement, it is a lost coin.<hr>
 
