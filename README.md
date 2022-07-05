@@ -63,12 +63,30 @@ Where can I get a base of addresses to start?</br>
 in telegram phrutis<hr>
 
 I found. What to do?</br>
-To be safe, do not share the key with anyone.</br>
-Write about the find in a personal message in telegram phrutis<hr>
+When you find the passphrase, a message will appear in the window.</br>
+===== FOUND =====</br>
+Address: 1......</br>
+Privkey: XXX....</br>
+=================</br>
+The address and key will also be written to the text file FOUND.txt</br>
+Do not tell anyone the found key!</br>
+Write me a private message in telegram phrutis<hr>
 
 What are we looking for?</br>
 Passphrases all possible combinations.</br>
 Length 7,8,9,10 characters<hr>
+
+What is HEX id?</br>
+When you pass the range by 100%, the program will end the search.</br>
+It will be written in the window.</br>
+Range 1234 - Passed</br>
+HEX id XXX......</br>
+A text file PASSED-HASHES.txt is also created
+Tell me in telegram:</br>
+Range number and HEX id.</br>
+I will mark in the table that the range has been passed.</br>
+This is done so that hunters do not take already passed ranges and do not pass the same thing.</br>
+Feel free to send me a HEX id - it will speed up the search and save time and costs.<hr>
 
 Why does the program use a lot of RAM?</br>
 The program creates the necessary tables and stores them in memory.<hr>
