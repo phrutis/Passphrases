@@ -29,7 +29,7 @@ For some users, [**renting**](https://vast.ai) is cheaper than searching on thei
 When renting, you must take into account the risk that the key may not be found at all.</br> 
 You may incur losses. Think of it not as earnings, but as a lottery.
 
-In the [**TABLE**](https://github.com/phrutis/Passphrases/blob/main/Others/table.md), select a **FREE** range between 1-10000
+In the [**TABLE**](https://github.com/phrutis/Passphrases/blob/main/Others/Table.md), select a **FREE** range between 1-10000
 
 Windows:</br>
 Run ```Passphrases-30xx.exe --bits 25 -range 777 -inputAddress addresses.txt -d 0``` (free range 1 - 10000)
