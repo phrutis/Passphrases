@@ -93,6 +93,13 @@ I will mark in the table that the range has been passed.</br>
 This is done so that hunters do not take already passed ranges and do not pass the same thing.</br>
 Feel free to send me a HEX id - it will speed up the search and save time and costs.<hr>
 
+Why did the program stop when it found it?</br>
+Why doesn't she keep looking?</br>
+This is done at the request of the miners.</br>
+In their monitoring, if the card has stopped, then it has found it.</br>
+There is no continuation - take a new range.</br>
+Or delete the found address from the database and go through the range again.<hr>
+
 Why does the program use a lot of RAM?</br>
 The program creates the necessary tables and stores them in memory.<hr>
 
