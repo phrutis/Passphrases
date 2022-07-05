@@ -126,11 +126,16 @@ After searching, you can install new drivers.<hr>
 
 What is a range?</br>
 This is a small part of the given symbols for passing a certain segment.</br>
+All possible characters are applied (including special characters)</br>
 Example range 7777</br>
-passes:</br>
 Start: aabbccddd</br>
-aabbccdde --> aabbcxxxx</br>
-Finish: aacczzzzzz<hr>
+aabbccdde -> aabbccddF -> aabb$&@#*</br>
+Finish: aaccZZZZZZ<hr>
+
+Why is there no telegram group?</br>
+Given the previous experience of wif500, all participants write to me in private.</br>
+In the group, incomprehensible conversations that only distract the hunters.</br>
+Many hunters choose to search anonymously.<hr>
 
 Is this theft?</br>
 If the found address is 7-10 years old without movement, it is a lost coin.<hr>
