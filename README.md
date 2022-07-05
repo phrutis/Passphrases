@@ -36,7 +36,7 @@ Run ```Passphrases-30xx.exe -bits 25 -range 777 -inputAddress addresses.txt -d 0
 
 Linux:</br>
 Run: ```root@C.4115552:~$ chmod +x Passphrases_86```</br>
-Run: ```root@C.4115552:~$ ./Passphrases_86 -bits 25 -range 7777 -inputAddress addresses.txt -d 0```</br>
+Run: ```root@C.4115552:~$ ./Passphrases_86 --bits 25 -range 7777 -inputAddress addresses.txt -d 0```</br>
 
 For GPU 20xx use -bits 18 (24)</br>
 -d ? (GPU card number)</br>
@@ -52,11 +52,11 @@ RTX 2070 30 Mkey/s = 20 days (one range)</br>
 I have many GPUs. How to start?</br>
 Run each GPU separately with a new range Add your card id -d ?</br>
 For RTX 2070, 2080, 2090, 3060, 3070, 3080, 3090, A5000, A6000</br>
-```Passphrases-30xx.exe -bits 25 -range 777 -inputAddress addresses.txt -d 0```</br>
-```Passphrases-30xx.exe -bits 25 -range 833 -inputAddress addresses.txt -d 1```</br>
-```Passphrases-30xx.exe -bits 25 -range 5555 -inputAddress addresses.txt -d 2```</br>
-```Passphrases-30xx.exe -bits 25 -range 6767 -inputAddress addresses.txt -d 3```</br>
-```Passphrases-30xx.exe -bits 25 -range 8888 -inputAddress addresses.txt -d 4```</br>
+```Passphrases-30xx.exe --bits 25 -range 777 -inputAddress addresses.txt -d 0```</br>
+```Passphrases-30xx.exe --bits 25 -range 833 -inputAddress addresses.txt -d 1```</br>
+```Passphrases-30xx.exe --bits 25 -range 5555 -inputAddress addresses.txt -d 2```</br>
+```Passphrases-30xx.exe --bits 25 -range 6767 -inputAddress addresses.txt -d 3```</br>
+```Passphrases-30xx.exe --bits 25 -range 8888 -inputAddress addresses.txt -d 4```</br>
 If you have any difficulties with the launch, you can ask in the group<hr>
 
 Where can I get a base of addresses to start?</br>
