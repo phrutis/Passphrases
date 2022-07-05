@@ -38,7 +38,7 @@ Linux:</br>
 Run: ```root@C.4115552:~$ chmod +x Passphrases_86```</br>
 Run: ```root@C.4115552:~$ ./Passphrases_86 --bits 25 -range 7777 -inputAddress addresses.txt -d 0```</br>
 
-For GPU 20xx use -bits 18 (24)</br>
+For GPU 20xx use --bits 18 (24)</br>
 -d ? (GPU card number)</br>
 
 RTX A6000 180 Mkey/s = 4 days (one range)</br>
