@@ -101,18 +101,8 @@ I will mark in the table that the range has been passed.</br>
 This is done so that hunters do not take already passed ranges and do not pass the same thing.</br>
 Feel free to send me a HEX id - it will speed up the search and save time and costs.<hr>
 
-Why did the program stop when it found it?</br>
-Why doesn't she keep looking?</br>
-This is done at the request of the miners.</br>
-In their monitoring, if the card has stopped, then it has found it.</br>
-There is no continuation - take a new range.</br>
-Or delete the found address from the database and go through the range again.<hr>
-
 Why does the program use a lot of RAM?</br>
 The program creates the necessary tables and stores them in memory.<hr>
-
-How can I rent gpu cards? I do not know how to do that.</br>
-Instructions will be here later. <hr>
 
 Does the program require an internet connection?</br>
 No, the program is looking for the key offline.<hr>
@@ -134,7 +124,7 @@ If you have found several addresses, start small and build up.</br>
 There are no guarantees anywhere, the challenge is designed for trust.<hr>
 
 I have a RTX 3060 TI card, and I have a low speed, how can speed up?</br>
-In the new drivers for 30xx Ti, 20xx Ti, a limiter is installed that slows down the speed by half.</br>
+In the new drivers for 30xx Ti, a limiter is installed that slows down the speed by half.</br>
 You need to download the old driver from six months ago. 496.13</br>
 Delete the new driver, install the old driver, the speed will increase x2</br>
 After searching, you can install new drivers.<hr>
@@ -159,7 +149,6 @@ What are the best ranges to look for? Where are the chances?</br>
 I think 1-500, but you just need to hope for luck<hr>
 
 Do a continuation of the search from the last checkpoint.</br>
-I deliberately removed it until it is gone.<hr>
+I deliberately removed it until it is gone.
 
-I didn't find an answer to my question.</br>
-Ask phrutis in telegram
+
