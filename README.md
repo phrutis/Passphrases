@@ -32,7 +32,7 @@ You may incur losses. Think of it not as earnings, but as a lottery.
 In the [**TABLE**](https://github.com/phrutis/Passphrases/blob/main/Others/table.md), select a **FREE** range between 1-10000
 
 Windows:</br>
-Run ```Passphrases-30xx.exe -bits 25 -range 777 -inputAddress addresses.txt -d 0``` (free range 1 - 10000)
+Run ```Passphrases-30xx.exe --bits 25 -range 777 -inputAddress addresses.txt -d 0``` (free range 1 - 10000)
 
 Linux:</br>
 Run: ```root@C.4115552:~$ chmod +x Passphrases_86```</br>
