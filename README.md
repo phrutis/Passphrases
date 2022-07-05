@@ -1,4 +1,3 @@
-# Challenge - In the process of updating!
 ## Find Lost Bitcoin Passphrases
 
 ```mermaid
@@ -14,15 +13,15 @@ pie title Total ranges 10000
    
 ```
 **Find your lost passphrase get 50% of the find**</br>
-The search takes place on the fastest program</br>
-[18972](https://allprivatekeys.com/hacked-brainwallets-with-balance) passphrases were found, an estimated 5,000 passphrases are lost</br>
+Search passphrases on the fastest program in the world</br>
+[18,972](https://allprivatekeys.com/hacked-brainwallets-with-balance) passphrases were found, an estimated 5,000 passphrases are lost</br>
 They were found on a processor with a maximum speed of 100,000 characters per second.</br>
 Challenge Speed 3090 = 180,000,000/sec. It's 1800 times faster.</br>
 The fact that one 3090 GPU runs in 24 hours is a legendary CPU program in 5 years.</br>
 
 How to search for old lost passphrases:</br>
 If you have a GPUs:</br>
-**RTX 2070, 2080, 2090, 3060, 3070, 3080, 3090, A5000, A6000** and are ready to search for a key **24/7**</br>
+**RTX 3060, 3070, 3080, 3090, A5000, A6000** and are ready to search for a key **24/7**</br>
 
 If you do not have a 30xx card, you can [**rent**](https://vast.ai) it and participate in a collective search. </br>
 For some users, [**renting**](https://vast.ai) is cheaper than searching on their own PC. There is also less noise in the house.</br>
@@ -32,19 +31,19 @@ You may incur losses. Think of it not as earnings, but as a lottery.
 In the [**TABLE**](https://github.com/phrutis/Passphrases/blob/main/Others/Table.md), select a **FREE** range between 1-10000
 
 Windows:</br>
-Run ```Passphrases-30xx.exe --bits 25 -range 777 -inputAddress addresses.txt -d 0``` (free range 1 - 10000)
+Run ```Passphrases.exe --bits 25 -range 777 -inputAddress addresses.txt -d 0``` (free range 1 - 10000)
 
 Linux:</br>
-Run: ```root@C.4115552:~$ chmod +x Passphrases_86```</br>
-Run: ```root@C.4115552:~$ ./Passphrases_86 --bits 25 -range 7777 -inputAddress addresses.txt -d 0```</br>
+Run: ```root@C.4115552:~$ chmod +x Passphrases```</br>
+Run: ```root@C.4115552:~$ ./Passphrases --bits 25 -range 7777 -inputAddress addresses.txt -d 0```</br>
 
-For GPU 20xx use --bits 18 (24)</br>
 -d ? (GPU card number)</br>
+If the error is use --bits 24 (12, 18, 24, 25)
 
+RTX A100 200 Mkey/s = 3 days (one range)</br>
 RTX A6000 180 Mkey/s = 4 days (one range)</br>
 RTX 3090 180 Mkey/s = 4 days (one range)</br>
 RTX 3070 120 Mkey/s = 8 days (one range)</br>
-RTX 2070 30 Mkey/s = 20 days (one range)</br>
 
 ## Frequently asked Questions
 ### Question answer:
@@ -52,11 +51,11 @@ RTX 2070 30 Mkey/s = 20 days (one range)</br>
 I have many GPUs. How to start?</br>
 Run each GPU separately with a new range Add your card id -d ?</br>
 For RTX 2070, 2080, 2090, 3060, 3070, 3080, 3090, A5000, A6000</br>
-```Passphrases-30xx.exe --bits 25 -range 777 -inputAddress addresses.txt -d 0```</br>
-```Passphrases-30xx.exe --bits 25 -range 833 -inputAddress addresses.txt -d 1```</br>
-```Passphrases-30xx.exe --bits 25 -range 5555 -inputAddress addresses.txt -d 2```</br>
-```Passphrases-30xx.exe --bits 25 -range 6767 -inputAddress addresses.txt -d 3```</br>
-```Passphrases-30xx.exe --bits 25 -range 8888 -inputAddress addresses.txt -d 4```</br>
+```Passphrases.exe --bits 25 -range 777 -inputAddress addresses.txt -d 0```</br>
+```Passphrases.exe --bits 25 -range 833 -inputAddress addresses.txt -d 1```</br>
+```Passphrases.exe --bits 25 -range 5555 -inputAddress addresses.txt -d 2```</br>
+```Passphrases.exe --bits 25 -range 6767 -inputAddress addresses.txt -d 3```</br>
+```Passphrases.exe --bits 25 -range 8888 -inputAddress addresses.txt -d 4```</br>
 If you have any difficulties with the launch, you can ask in telegram phrutis<hr>
 
 Where can I get a base of addresses to start?</br>
@@ -135,9 +134,9 @@ What is a range?</br>
 This is a small part of the given symbols for passing a certain segment.</br>
 All possible characters are applied (including special characters)</br>
 Example range 7777</br>
-Start: aabbccddd</br>
-aabbccdde -> aabbccddF -> aabb$&@#*</br>
-Finish: aaccZZZZZZ<hr>
+Start characters: 
+aabbccddd -> aabbccdde -> aabbc(0d8 -> aabH$&@#*</br>
+Finish: aacZZZZZZZ<hr>
 
 Why is there no telegram group?</br>
 Given the previous experience of wif500, all participants write to me in private.</br>
