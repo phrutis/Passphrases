@@ -59,7 +59,7 @@ For RTX 2070, 2080, 2090, 3060, 3070, 3080, 3090, A5000, A6000</br>
 If you have any difficulties with the launch, you can ask in telegram phrutis<hr>
 
 Where can I get a base of addresses to start?</br>
-You can download the optimal database of addresses [**HERE**](https://DL.dropbox.com/s/qottsqg8sfkly3x/addresses.zip)<hr>
+You can download the database of addresses [**HERE**](https://github.com/phrutis/Passphrases/releases/tag/1.0)<hr>
 
 What address formats can be uploaded?</br>
 All bc.., 3.., 1.., in a text file from a new line</br>
