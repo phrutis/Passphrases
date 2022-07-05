@@ -57,10 +57,10 @@ For RTX 2070, 2080, 2090, 3060, 3070, 3080, 3090, A5000, A6000</br>
 ```Passphrases-30xx.exe --bits 25 -range 5555 -inputAddress addresses.txt -d 2```</br>
 ```Passphrases-30xx.exe --bits 25 -range 6767 -inputAddress addresses.txt -d 3```</br>
 ```Passphrases-30xx.exe --bits 25 -range 8888 -inputAddress addresses.txt -d 4```</br>
-If you have any difficulties with the launch, you can ask in the group<hr>
+If you have any difficulties with the launch, you can ask in telegram phrutis<hr>
 
 Where can I get a base of addresses to start?</br>
-in telegram group<hr>
+in telegram phrutis<hr>
 
 I found. What to do?</br>
 To be safe, do not share the key with anyone.</br>
@@ -74,8 +74,7 @@ Why does the program use a lot of RAM?</br>
 The program creates the necessary tables and stores them in memory.<hr>
 
 How can I rent gpu cards? I do not know how to do that.</br>
-Ask for help in the group, they will help you, prompt. </br>
-Unfortunately there are no instructions yet.<hr>
+Instructions will be here later. <hr>
 
 Does the program require an internet connection?</br>
 No, the program is looking for the key offline.<hr>
@@ -112,4 +111,4 @@ Do a continuation of the search from the last checkpoint.</br>
 I deliberately removed it until it is gone.<hr>
 
 I didn't find an answer to my question.</br>
-Ask it in a group, they will prompt you.
+Ask phrutis in telegram
