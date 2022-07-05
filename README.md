@@ -62,6 +62,11 @@ If you have any difficulties with the launch, you can ask in telegram phrutis<hr
 Where can I get a base of addresses to start?</br>
 in telegram phrutis<hr>
 
+Explain what we are looking for?</br>
+How it works? What's this?</br>
+[Here is a good example](https://allprivatekeys.com/try-your-passphrase) of work for you.</br>
+The difference is that instead of requests to the blockchain, the program checks against the database of addresses with a positive balance.<hr>
+
 I found. What to do?</br>
 When you find the passphrase, a message will appear in the window.</br>
 ===== FOUND =====</br>
