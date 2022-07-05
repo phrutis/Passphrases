@@ -61,6 +61,10 @@ If you have any difficulties with the launch, you can ask in telegram phrutis<hr
 Where can I get a base of addresses to start?</br>
 You can download the database of addresses [**HERE**](https://github.com/phrutis/Passphrases/releases/tag/1.0)<hr>
 
+Why did the program freeze at startup?</br>
+She didn't hang up! Program start --bits25 (25-30 min.)</br>
+The program creates tables and downloads to the device<hr>
+
 What address formats can be uploaded?</br>
 All bc.., 3.., 1.., in a text file from a new line</br>
 It is recommended to use only addresses 1... from 2$ ($10)<hr>
