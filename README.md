@@ -67,7 +67,7 @@ It is recommended to use only addresses 1... from 2$ ($10)<hr>
 
 Explain what we are looking for?</br>
 How it works? What's this?</br>
-[Here is a good example](https://allprivatekeys.com/try-your-passphrase) of work for you. 
+[Here is a good example](https://allprivatekeys.com/try-your-passphrase) of work for you.</br>
 Enter passphrase: fhqyqzhao123 pay attention to the address 1MVFUmYLKmLyC1m3WfyHkEJTZfoHjwDeXE</br>
 The difference is that instead of requests to the blockchain.</br> 
 The program checks against the database of addresses with a positive balance.<hr>
@@ -83,8 +83,11 @@ Do not tell anyone the found key!</br>
 Write me a private message in telegram phrutis<hr>
 
 What are we looking for?</br>
-Passphrases all possible combinations.</br>
-Length 7,8,9,10 characters<hr>
+```Passphrases.exe``` - all possible combinations.</br>
+Length 7,8,9,10 characters</br>
+Example: fhqyqzhao123, satellite, %#j)xQ78~"</br>
+```Words.exe``` - Create words from letters and form sentences from words</br>
+Example: good day, hi my bitcoin, this is my password...<hr>
 
 What is HEX id?</br>
 When you pass the range by 100%, the program will end the search.</br>
