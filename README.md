@@ -61,6 +61,10 @@ If you have any difficulties with the launch, you can ask in telegram phrutis<hr
 Where can I get a base of addresses to start?</br>
 You can download the optimal database of addresses [**HERE**](https://DL.dropbox.com/s/qottsqg8sfkly3x/addresses.zip)<hr>
 
+What address formats can be uploaded?</br>
+All bc.., 3.., 1.., in a text file from a new line</br>
+It is recommended to use only addresses 1... from 2$ ($10)<hr>
+
 Explain what we are looking for?</br>
 How it works? What's this?</br>
 [Here is a good example](https://allprivatekeys.com/try-your-passphrase) of work for you.</br>
