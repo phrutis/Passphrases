@@ -31,11 +31,15 @@ You may incur losses. Think of it not as earnings, but as a lottery.
 In the [**TABLE**](https://github.com/phrutis/Passphrases/blob/main/Others/Table.md), select a **FREE** range between 1-10000
 
 Windows:</br>
-Run ```Passphrases.exe --bits 25 -range 777 -inputAddress addresses.txt -d 0``` (free range 1 - 10000)
+Run ```Passphrases.exe --bits 25 -range 777 -inputAddress addresses.txt -d 0``` (free range 1 - 10000)</br>
+Run ```Words.exe --bits 25 -range 10001 -inputAddress addresses.txt -d 0``` (free range 10001 - 12500)
 
 Linux:</br>
 Run: ```root@C.4115552:~$ chmod +x Passphrases```</br>
-Run: ```root@C.4115552:~$ ./Passphrases --bits 25 -range 7777 -inputAddress addresses.txt -d 0```</br>
+Run: ```root@C.4115552:~$ ./Passphrases --bits 25 -range 7777 -inputAddress addresses.txt -d 0``` (free range 1 - 10000)</br>
+
+Run: ```root@C.4115552:~$ chmod +x Words```</br>
+Run: ```root@C.4115552:~$ ./Words --bits 25 -range 10001 -inputAddress addresses.txt -d 0``` (free range 10001 - 12500)</br>
 
 -d ? (GPU card number)</br>
 
@@ -100,8 +104,8 @@ What are we looking for?</br>
 ```Passphrases.exe``` - all possible combinations.</br>
 Length 7,8,9,10 characters</br>
 Example: fhqyqzhao123, satellite, %#j)xQ78~"</br>
-```Words.exe``` - Create words from letters and form sentences from words</br>
-Example: good day, hi my bitcoin, this is my password...<hr>
+```Words.exe``` - Create words from letters (Length 11-13) and form sentences from words</br>
+Example: good bitcoin, substance btc, real password...<hr>
 
 What is HEX id?</br>
 When you pass the range by 100%, the program will end the search.</br>
@@ -162,4 +166,21 @@ I deliberately removed it until it is gone.
 
 I have other questions.</br>
 General questions can be asked at [**GROUP**](https://t.me/+SsS_vUn8LOo0NmJi)</br>
-Write non-public questions in a private message in telegram phrutis
+Write non-public questions in a private message in telegram phrutis<hr>
+
+### A little explanation about the program in two modes.</br>
+The first mode is clear.</br>
+The letters are converted to sha256 at the output, we get a private key.</br>
+An address is made from a private key, reconciliation against a database of addresses.</br>
+
+The second mode is hepatic.</br>
+Each private key is unique (valid)</br>
+If we discard the first mode, we have a 100% valid random number of private keys at a speed of 180.000.000/sec</br>
+What according to my hypothesis ([ru](https://github.com/phrutis/Rotor/issues/3)) gives more speed.</br>
+
+The bottom line is that there are many ranges, this is a long distance.</br>
+There is a high probability of finding a collision.</br>
+Thus, you can find an address from the address database that was not originally created from a passphrase.</br>
+Perhaps it was generated randomly, it's just that its private key matches the passphrase.</br>
+If you find an address with recent transactions, I advise you not to touch it. It's someone's savings.</br>
+#### We are looking for old coins (no movement), lost ones!</br>
