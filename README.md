@@ -45,6 +45,8 @@ RTX A6000 180 Mkey/s = 4 days (one range)</br>
 RTX 3090 180 Mkey/s = 4 days (one range)</br>
 RTX 3070 120 Mkey/s = 8 days (one range)</br>
 
+Telegram [**GROUP**](https://t.me/+SsS_vUn8LOo0NmJi) - for active hunters.</br>
+Not active hunters (who are not looking) or flood - the participant will be deleted.</br>
 ## Frequently asked Questions
 ### Question answer:
 
@@ -142,11 +144,6 @@ Example range 7777</br>
 Start characters: 
 aabbccddd -> aabbccdde -> aabbc(0d8 -> aabH$&@#*</br>
 Finish: aacZZZZZZZ<hr>
-
-Why is there no telegram group?</br>
-Given the previous experience of wif500, all participants write to me in private.</br>
-In the group, incomprehensible conversations that only distract the hunters.</br>
-Many hunters choose to search anonymously.<hr>
 
 Is this theft?</br>
 If the found address is 7-10 years old without movement, it is a lost coin.<hr>
