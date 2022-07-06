@@ -58,13 +58,13 @@ Not active hunters (who are not looking) or flood - the participant will be dele
 
 I have many GPUs. How to start?</br>
 Run each GPU separately with a new range Add your card id -d ?</br>
-For RTX 2070, 2080, 2090, 3060, 3070, 3080, 3090, A5000, A6000</br>
+For RTX 3060, 3070, 3080, 3090, A5000, A6000</br>
 ```Passphrases.exe --bits 25 -range 777 -inputAddress addresses.txt -d 0```</br>
 ```Passphrases.exe --bits 25 -range 833 -inputAddress addresses.txt -d 1```</br>
 ```Passphrases.exe --bits 25 -range 5555 -inputAddress addresses.txt -d 2```</br>
 ```Passphrases.exe --bits 25 -range 6767 -inputAddress addresses.txt -d 3```</br>
 ```Passphrases.exe --bits 25 -range 8888 -inputAddress addresses.txt -d 4```</br>
-If you have any difficulties with the launch, you can ask in telegram phrutis<hr>
+If you have any difficulties with the launch, you can ask in telegram [**GROUP**](https://t.me/+SsS_vUn8LOo0NmJi)<hr>
 
 Where can I get a base of addresses to start?</br>
 You can download the database of addresses [**HERE**](https://github.com/phrutis/Passphrases/releases/tag/1.0)<hr>
@@ -77,7 +77,7 @@ The consumption depends on the size of the table (-bits) and the size of the add
 
 What address formats can be uploaded?</br>
 All bc.., 3.., 1.., in a text file from a new line</br>
-It is recommended to use only addresses 1... from 2$ ($10)<hr>
+It is recommended to use only OLD addresses 1... from 2$ ($10)<hr>
 
 Explain what we are looking for?</br>
 How it works? What's this?</br>
@@ -109,7 +109,7 @@ It will be written in the window.</br>
 Range 1234 - Passed</br>
 HEX id XXX......</br>
 A text file PASSED-HASHES.txt is also created
-Tell me in telegram:</br>
+Send in telegram [**GROUP**](https://t.me/+SsS_vUn8LOo0NmJi) </br>
 Range number and HEX id.</br>
 I will mark in the table that the range has been passed.</br>
 This is done so that hunters do not take already passed ranges and do not pass the same thing.</br>
@@ -160,4 +160,6 @@ I think 1-500, but you just need to hope for luck<hr>
 Do a continuation of the search from the last checkpoint.</br>
 I deliberately removed it until it is gone.
 
-
+I have other questions.</br>
+General questions can be asked at [**GROUP**](https://t.me/+SsS_vUn8LOo0NmJi)</br>
+Write non-public questions in a private message in telegram phrutis
