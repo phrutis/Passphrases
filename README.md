@@ -38,12 +38,18 @@ Run: ```root@C.4115552:~$ chmod +x Passphrases```</br>
 Run: ```root@C.4115552:~$ ./Passphrases --bits 25 -range 7777 -inputAddress addresses.txt -d 0```</br>
 
 -d ? (GPU card number)</br>
-If the error is use --bits 24 (12, 18, 24, 25)
 
-RTX A100 200 Mkey/s = 3 days (one range)</br>
-RTX A6000 180 Mkey/s = 4 days (one range)</br>
-RTX 3090 180 Mkey/s = 4 days (one range)</br>
-RTX 3070 120 Mkey/s = 8 days (one range)</br>
+| GPU card   | --bits      | Speed       | Time           |
+|------------|:------------|-------------|----------------|
+| A100       | 26          | 200 Mkeys   | ~3 days        |
+| A6000      | 25          | 180 Mkeys   | ~4 days        |
+| 3090       | 25          | 180 Mkeys   | ~4 days        |
+| 3080 Ti    | ??          | ??? Mkeys   | ?? days        |
+| 3080       | 24          | 150 Mkeys   | ~5 days        |
+| 3070 Ti    | 24          | 120 Mkeys   | ~6 days        |
+| 3070       | 24          | 90 Mkeys    | ~8 days        |
+| 3060       | ??          | ?? Mkeys    | ?? days        |
+
 
 Telegram [**GROUP**](https://t.me/+SsS_vUn8LOo0NmJi) - for active hunters.</br>
 Not active hunters (who are not looking) or flood - the participant will be deleted.</br>
