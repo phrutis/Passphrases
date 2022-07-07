@@ -1,7 +1,7 @@
 ## Find Lost Bitcoin Passphrases
 
 ```mermaid
-pie title Total ranges 10000
+pie title Total ranges 12500
              " " : 0
             "  " : 0
            "   " : 0
@@ -9,7 +9,7 @@ pie title Total ranges 10000
   "- Passed 0" : 0
          "     " : 0
   "- in progress 9" : 9
-   "- FREE 9991" : 9991
+   "- FREE 12491" : 12491
    
 ```
 **Find your lost passphrase get 50% of the find**</br>
