@@ -132,6 +132,11 @@ The program creates the necessary tables and stores them in memory.<hr>
 Does the program require an internet connection?</br>
 No, the program is looking for the key offline.<hr>
 
+Is your program working?</br>
+I did not find anything, the problem is in the program.</br>
+The program works correctly, it has been tested many times.</br>
+If you have any doubts, you can go and find the found address from the find table<hr>
+
 Why is the program without source codes?</br>
 The program includes a range, decoders and more.</br>
 Knowing them, there is no point in the challenge.<hr>
