@@ -53,7 +53,7 @@ Run: ```root@C.4115552:~$ ./Words --bits 25 -range 10001 -inputAddress addresses
 | 3070 Ti    | 24          | 120 Mkeys   | 6 days        |
 | 3070       | 24          | 90 Mkeys    | 8 days        |
 | 3060       | 24          | ?? Mkeys    | ? days        |
-
+| 3050       | 24          | 45 Mkeys    | 17 days       |
 
 Telegram [**GROUP**](https://t.me/+SsS_vUn8LOo0NmJi) - for active hunters.</br>
 Not active hunters (who are not looking) or flood - the participant will be deleted.</br>
