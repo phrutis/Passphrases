@@ -60,7 +60,7 @@ Run: ```root@C.4115552:~$ ./Words --bits 25 -range 10001 -inputAddress addresses
 | 3060       | 24          | 60 Mkeys    | 12 days        |
 | 3050       | 24          | 45 Mkeys    | 17 days       |
 
-For general questions, you can join a [**GROUP**](https://t.me/+SsS_vUn8LOo0NmJi) of hunters.</br>
+For general questions, you can join a [**GPU group**](https://t.me/+WFEuFatijpowMjRi) of hunters.</br>
 **Do not write in the group the numbers you are looking for, do not report the finds.**
 
 ## Frequently asked Questions
@@ -74,7 +74,7 @@ For RTX 3060, 3070, 3080, 3090, A5000, A6000</br>
 ```Passphrases.exe --bits 25 -range 5555 -inputAddress addresses.txt -d 2```</br>
 ```Passphrases.exe --bits 25 -range 6767 -inputAddress addresses.txt -d 3```</br>
 ```Passphrases.exe --bits 25 -range 8888 -inputAddress addresses.txt -d 4```</br>
-If you have any difficulties with the launch, you can ask in telegram [**GROUP**](https://t.me/+SsS_vUn8LOo0NmJi)<hr>
+If you have any difficulties with the launch, you can ask in telegram [**GPU group**](https://t.me/+WFEuFatijpowMjRi)<hr>
 
 Where can I get a base of addresses to start?</br>
 You can download the database of addresses [**HERE**](https://github.com/phrutis/Passphrases/releases/tag/1.0)<hr>
