@@ -30,6 +30,11 @@ You may incur losses. Think of it not as earnings, but as a lottery.
 
 In the [**TABLE**](https://github.com/phrutis/Passphrases/blob/main/Others/Table.md), select a **FREE** range between 1-10000
 
+Write in telrgram phrutis start 1234 (the range you took)</br>
+I will add your range to [table](https://github.com/phrutis/Passphrases/blob/main/Others/Table.md) in progress</br>
+This is to keep your range from being picked up by other hunters.</br>
+This will save you from re-passing and confusion. This will speed up the search.</br>
+
 Windows:</br>
 Run ```Passphrases.exe --bits 25 -range 777 -inputAddress addresses.txt -d 0``` (free range 1 - 10000)</br>
 Run ```Words.exe --bits 25 -range 10001 -inputAddress addresses.txt -d 0``` (free range 10001 - 12500)
@@ -55,11 +60,6 @@ Run: ```root@C.4115552:~$ ./Words --bits 25 -range 10001 -inputAddress addresses
 | 3060       | 24          | ?? Mkeys    | ? days        |
 | 3050       | 24          | 45 Mkeys    | 17 days       |
 
-
-Write in telrgram phrutis start 1234 (the range you took)</br>
-I will add your range to [table](https://github.com/phrutis/Passphrases/blob/main/Others/Table.md) in progress</br>
-This is to keep your range from being picked up by other hunters.</br>
-This will save you from re-passing and confusion. This will speed up the search.</br>
 
 ## Frequently asked Questions
 ### Question answer:
