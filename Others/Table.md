@@ -1,6 +1,8 @@
 ### Passphrases - Ranges (1-10,000)
 All possible combinations length 7,8,9,10 symbols</br>
 
+Priority Ranges 1-500
+
 **Choose a free range:**</br>
 
 - Ranges [1-999](https://github.com/phrutis/Passphrases/blob/main/Others/1-999.md)
