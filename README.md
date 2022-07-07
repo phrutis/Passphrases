@@ -55,14 +55,11 @@ Run: ```root@C.4115552:~$ ./Words --bits 25 -range 10001 -inputAddress addresses
 | 3060       | 24          | ?? Mkeys    | ? days        |
 | 3050       | 24          | 45 Mkeys    | 17 days       |
 
-### Challenge is a collective search for a lost passphrases
 
-Join telegram [**GROUP**](https://t.me/+SsS_vUn8LOo0NmJi)</br>
-Write: ```@phrutis start 1234``` (the range you took)</br>
-I will add your range to [table](https://github.com/phrutis/Passphrases/blob/main/Others/Table.md) in progress and answer - ok</br>
+Write in telrgram phrutis start 1234 (the range you took)</br>
+I will add your range to [table](https://github.com/phrutis/Passphrases/blob/main/Others/Table.md) in progress</br>
 This is to keep your range from being picked up by other hunters.</br>
 This will save you from re-passing and confusion. This will speed up the search.</br>
-**Not active hunters who are not looking, silent 24 hours or flood - the participant will be deleted.**</br>
 
 ## Frequently asked Questions
 ### Question answer:
@@ -120,7 +117,7 @@ It will be written in the window.</br>
 Range 1234 - Passed</br>
 HEX id XXX......</br>
 A text file PASSED-HASHES.txt is also created
-Send in telegram [**GROUP**](https://t.me/+SsS_vUn8LOo0NmJi) </br>
+Send in telegram phrutis</br>
 Range number and HEX id.</br>
 I will mark in the table that the range has been passed.</br>
 This is done so that hunters do not take already passed ranges and do not pass the same thing.</br>
@@ -178,8 +175,7 @@ Do a continuation of the search from the last checkpoint.</br>
 I deliberately removed it until it is gone.
 
 I have other questions.</br>
-General questions can be asked at [**GROUP**](https://t.me/+SsS_vUn8LOo0NmJi)</br>
-Write non-public questions in a private message in telegram phrutis<hr>
+Write questions in a private message in telegram phrutis<hr>
 
 ### A little explanation about the program in two modes.</br>
 The first mode is clear.</br>
