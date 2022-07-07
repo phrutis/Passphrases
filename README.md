@@ -158,8 +158,9 @@ Finish: aacZZZZZZZ<hr>
 Is this theft?</br>
 If the found address is 7-10 years old without movement, it is a lost coin.<hr>
 
-What are the best ranges to look for? Where are the chances?</br>
-I think 1-500, but you just need to hope for luck<hr>
+What are the best ranges to look for?</br>
+Where are the chances?</br>
+I think 1-100, but you just need to hope for luck<hr>
 
 Do a continuation of the search from the last checkpoint.</br>
 I deliberately removed it until it is gone.
