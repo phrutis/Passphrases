@@ -105,7 +105,7 @@ What are we looking for?</br>
 Length 7,8,9,10 characters</br>
 Example: pass7a0**Z, SaTellitE, %#j)xQ78~"</br>
 ```Words.exe``` - Create words from letters (Length 11-13) and form sentences from words</br>
-Example: good bitcoin, substance btc, real password...<hr>
+Example: good bitcoin, substance btc, real password, ho ho ho ho<hr>
 
 What is HEX id?</br>
 When you pass the range by 100%, the program will end the search.</br>
