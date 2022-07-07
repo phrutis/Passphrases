@@ -45,14 +45,14 @@ Run: ```root@C.4115552:~$ ./Words --bits 25 -range 10001 -inputAddress addresses
 
 | GPU card   | --bits      | Speed       | Time           |
 |------------|:------------|-------------|----------------|
-| A100       | 26          | 200 Mkeys   | ~3 days        |
-| A6000      | 25          | 180 Mkeys   | ~4 days        |
-| 3090       | 25          | 180 Mkeys   | ~4 days        |
-| 3080 Ti    | ??          | ??? Mkeys   | ?? days        |
-| 3080       | 24          | 150 Mkeys   | ~5 days        |
-| 3070 Ti    | 24          | 120 Mkeys   | ~6 days        |
-| 3070       | 24          | 90 Mkeys    | ~8 days        |
-| 3060       | ??          | ?? Mkeys    | ?? days        |
+| A100       | 26          | 200 Mkeys   | 3 days        |
+| A6000      | 25          | 180 Mkeys   | 4 days        |
+| 3090       | 25          | 180 Mkeys   | 4 days        |
+| 3080 Ti    | ??          | ??? Mkeys   | ? days        |
+| 3080       | 24          | 150 Mkeys   | 5 days        |
+| 3070 Ti    | 24          | 120 Mkeys   | 6 days        |
+| 3070       | 24          | 90 Mkeys    | 8 days        |
+| 3060       | 24          | ?? Mkeys    | ? days        |
 
 
 Telegram [**GROUP**](https://t.me/+SsS_vUn8LOo0NmJi) - for active hunters.</br>
