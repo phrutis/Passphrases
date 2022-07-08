@@ -57,7 +57,7 @@ Run: ```root@C.4115552:~$ ./Words --bits 25 -range 10001 -inputAddress addresses
 | 3080       | 24          | 150 Mkeys   | 5 days        |
 | 3070 Ti    | 24          | 120 Mkeys   | 6 days        |
 | 3070       | 24          | 90 Mkeys    | 8 days        |
-| 3060       | 24          | 60 Mkeys    | 12 days       |
+| 3060       | 24          | 70 Mkeys    | 10 days       |
 | 3050       | 24          | 45 Mkeys    | 17 days       |
 
 For general questions, you can join a [**GPU group**](https://t.me/+WFEuFatijpowMjRi) of hunters.</br>
