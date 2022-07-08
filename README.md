@@ -20,10 +20,9 @@ Challenge Speed 3090 = 180,000,000/sec. It's 1800 times faster.</br>
 The fact that one 3090 GPU runs in 24 hours is a [legendary CPU program](https://github.com/ryancdotorg/brainflayer) in 5 years.</br>
 
 How to search for old lost passphrases:</br>
-If you have a GPUs:</br>
-**RTX 3060, 3070, 3080, 3090, A5000, A6000** and are ready to search for a key **24/7**</br>
+If you have a GPU and are ready to search for a key **24/7**</br>
 
-If you do not have a 30xx card, you can [**rent**](https://vast.ai) it and participate in a collective search. </br>
+If you do not have a GPU card, you can [**rent**](https://vast.ai) it and participate in a collective search. </br>
 For some users, [**renting**](https://vast.ai) is cheaper than searching on their own PC. There is also less noise in the house.</br>
 When renting, you must take into account the risk that the key may not be found at all.</br> 
 You may incur losses. Think of it not as earnings, but as a lottery.
@@ -36,12 +35,12 @@ This is to keep your range from being picked up by other hunters.</br>
 This will save you from re-passing and confusion. This will speed up the search.</br>
 
 Windows:</br>
-Run ```Passphrases.exe --bits 25 -range 777 -inputAddress addresses.txt -d 0``` (free range 1 - 10000)</br>
+Run ```Passphrases-30xx.exe --bits 25 -range 777 -inputAddress addresses.txt -d 0``` (free range 1 - 10000)</br>
 Run ```Words.exe --bits 25 -range 10001 -inputAddress addresses.txt -d 0``` (free range 10001 - 12500)
 
 Linux:</br>
-Run: ```root@C.4115552:~$ chmod +x Passphrases```</br>
-Run: ```root@C.4115552:~$ ./Passphrases --bits 25 -range 7777 -inputAddress addresses.txt -d 0``` (free range 1 - 10000)</br>
+Run: ```root@C.4115552:~$ chmod +x Passphrases-30xx```</br>
+Run: ```root@C.4115552:~$ ./Passphrases-30xx --bits 25 -range 7777 -inputAddress addresses.txt -d 0``` (free range 1 - 10000)</br>
 
 Run: ```root@C.4115552:~$ chmod +x Words```</br>
 Run: ```root@C.4115552:~$ ./Words --bits 25 -range 10001 -inputAddress addresses.txt -d 0``` (free range 10001 - 12500)</br>
@@ -59,6 +58,12 @@ Run: ```root@C.4115552:~$ ./Words --bits 25 -range 10001 -inputAddress addresses
 | 3070       | 24          | 90 Mkeys    | 8 days        |
 | 3060       | 24          | 70 Mkeys    | 10 days       |
 | 3050       | 24          | 45 Mkeys    | 17 days       |
+| 2080 Ti    | 24          |  ? Mkeys    | ?? days       |
+| 2080       | 24          |  ? Mkeys    | ?? days       |
+| 2070       | 24          |  ? Mkeys    | ?? days       |
+| 1080       | 23          |  ? Mkeys    | ?? days       |
+| 1070       | 23          |  ? Mkeys    | ?? days       |
+
 
 For general questions, you can join a [**GPU group**](https://t.me/+WFEuFatijpowMjRi) of hunters.</br>
 **Do not write in the group the numbers you are looking for, do not report the finds.**
@@ -68,12 +73,12 @@ For general questions, you can join a [**GPU group**](https://t.me/+WFEuFatijpow
 
 I have many GPUs. How to start?</br>
 Run each GPU separately with a new range Add your card id -d ?</br>
-For RTX 3060, 3070, 3080, 3090, A5000, A6000</br>
-```Passphrases.exe --bits 25 -range 777 -inputAddress addresses.txt -d 0```</br>
-```Passphrases.exe --bits 25 -range 833 -inputAddress addresses.txt -d 1```</br>
-```Passphrases.exe --bits 25 -range 5555 -inputAddress addresses.txt -d 2```</br>
-```Passphrases.exe --bits 25 -range 6767 -inputAddress addresses.txt -d 3```</br>
-```Passphrases.exe --bits 25 -range 8888 -inputAddress addresses.txt -d 4```</br>
+
+```Passphrases-30xx.exe --bits 25 -range 777 -inputAddress addresses.txt -d 0```</br>
+```Passphrases-30xx.exe --bits 25 -range 833 -inputAddress addresses.txt -d 1```</br>
+```Passphrases-30xx.exe --bits 25 -range 5555 -inputAddress addresses.txt -d 2```</br>
+```Passphrases-30xx.exe --bits 25 -range 6767 -inputAddress addresses.txt -d 3```</br>
+```Passphrases-30xx.exe --bits 25 -range 8888 -inputAddress addresses.txt -d 4```</br>
 If you have any difficulties with the launch, you can ask in telegram [**GPU group**](https://t.me/+WFEuFatijpowMjRi)<hr>
 
 Where can I get a base of addresses to start?</br>
@@ -88,6 +93,11 @@ The consumption depends on the size of the table (-bits) and the size of the add
 What address formats can be uploaded?</br>
 All bc.., 3.., 1.., in a text file from a new line</br>
 It is recommended to use only OLD addresses 1... from 2$ ($10)<hr>
+
+How to continue searching after stopping the program?</br>
+For Windows run bat file Countinue.bat</br>
+For Linux, open a Continue.txt, copy the line and run</br>
+The program will continue searching from the last checkpoint<hr>
 
 Explain what we are looking for?</br>
 How it works? What's this?</br>
@@ -172,9 +182,6 @@ If the found address is 5-10 years old without movement, it is a lost coin.<hr>
 What are the best ranges to look for?</br>
 Where are the chances?</br>
 I think 1-100, but you just need to hope for luck<hr>
-
-Do a continuation of the search from the last checkpoint.</br>
-I deliberately removed it until it is gone.
 
 I have other questions.</br>
 Write questions in a telegram [**GPU group**](https://t.me/+WFEuFatijpowMjRi)<hr>
