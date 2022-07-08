@@ -28,7 +28,7 @@ For some users, [**renting**](https://vast.ai) is cheaper than searching on thei
 When renting, you must take into account the risk that the key may not be found at all.</br> 
 You may incur losses. Think of it not as earnings, but as a lottery.
 
-In the [**TABLE**](https://github.com/phrutis/Passphrases/blob/main/Others/Table.md), select a **FREE** range between 1-10000
+In the [**TABLE**](https://github.com/phrutis/Passphrases/blob/main/Others/Table.md), select a **FREE** range between 1-12500
 
 **Write in telrgram phrutis start 1234** (the range you took)</br>
 I will add your range to [table](https://github.com/phrutis/Passphrases/blob/main/Others/Table.md) in progress</br>
@@ -46,10 +46,10 @@ Run: ```root@C.4115552:~$ ./Passphrases --bits 25 -range 7777 -inputAddress addr
 Run: ```root@C.4115552:~$ chmod +x Words```</br>
 Run: ```root@C.4115552:~$ ./Words --bits 25 -range 10001 -inputAddress addresses.txt -d 0``` (free range 10001 - 12500)</br>
 
--d ? (GPU card number)</br>
+-d ? (GPU card number, id)</br>
 
-| GPU card   | --bits      | Speed       | Time           |
-|------------|:------------|-------------|----------------|
+| GPU card   | --bits      | Speed       | Time          |
+|------------|:------------|-------------|---------------|
 | A100       | 26          | 200 Mkeys   | 3 days        |
 | A6000      | 25          | 180 Mkeys   | 4 days        |
 | 3090       | 25          | 180 Mkeys   | 4 days        |
@@ -57,7 +57,7 @@ Run: ```root@C.4115552:~$ ./Words --bits 25 -range 10001 -inputAddress addresses
 | 3080       | 24          | 150 Mkeys   | 5 days        |
 | 3070 Ti    | 24          | 120 Mkeys   | 6 days        |
 | 3070       | 24          | 90 Mkeys    | 8 days        |
-| 3060       | 24          | 60 Mkeys    | 12 days        |
+| 3060       | 24          | 60 Mkeys    | 12 days       |
 | 3050       | 24          | 45 Mkeys    | 17 days       |
 
 For general questions, you can join a [**GPU group**](https://t.me/+WFEuFatijpowMjRi) of hunters.</br>
@@ -167,7 +167,7 @@ aabbccddd -> aabbccdde -> aabbc(0d8 -> aabH$&@#*</br>
 Finish: aacZZZZZZZ<hr>
 
 Is this theft?</br>
-If the found address is 7-10 years old without movement, it is a lost coin.<hr>
+If the found address is 5-10 years old without movement, it is a lost coin.<hr>
 
 What are the best ranges to look for?</br>
 Where are the chances?</br>
@@ -177,7 +177,7 @@ Do a continuation of the search from the last checkpoint.</br>
 I deliberately removed it until it is gone.
 
 I have other questions.</br>
-Write questions in a private message in telegram phrutis<hr>
+Write questions in a telegram [**GPU group**](https://t.me/+WFEuFatijpowMjRi)<hr>
 
 ### A little explanation about the program in two modes.</br>
 The first mode is clear.</br>
