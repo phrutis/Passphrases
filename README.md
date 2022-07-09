@@ -8,8 +8,8 @@ pie title Total ranges 12500
           "    " : 0
   "- Passed 0" : 0
          "     " : 0
-  "- in progress 21" : 21
-   "- FREE 12479" : 12479
+  "- in progress 22" : 23
+   "- FREE 12477" : 12477
    
 ```
 **Find your lost passphrase get 50% of the find**</br>
