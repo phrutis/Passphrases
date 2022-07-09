@@ -117,10 +117,10 @@ Do not tell anyone the found key!</br>
 Write me a private message in telegram phrutis<hr>
 
 What are we looking for?</br>
-```Passphrases.exe``` - all possible combinations.</br>
-Length 7,8,9,10 characters</br>
+```Passphrases.exe``` - all possible combinations + spec. symbols</br>
+Length 7, 8, 9, (10 - top 1000 ranges)</br>
 Example: pass7a0**Z, SaTellitE, %#j)xQ78~"</br>
-```Words.exe``` - Create words from letters (Length 11-13) and form sentences from words</br>
+```Words.exe``` - Create words from letters (Length 10-13) and form sentences from words</br>
 Example: good bitcoin, substance btc, real password, ho ho ho ho<hr>
 
 What is HEX id?</br>
