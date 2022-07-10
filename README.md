@@ -40,11 +40,11 @@ Run ```Passphrases-30xx.exe --bits 25 -range 777 -inputAddress addresses.txt -d 
 Run ```Words.exe --bits 25 -range 10001 -inputAddress addresses.txt -d 0``` (free range 10001 - 12500)
 
 Linux:</br>
-Run: ```root@C.4115552:~$ chmod +x Passphrases-30xx```</br>
-Run: ```root@C.4115552:~$ ./Passphrases-30xx --bits 25 -range 7777 -inputAddress addresses.txt -d 0``` (free range 1 - 10000)</br>
+Run: ```chmod +x Passphrases-30xx```</br>
+Run: ```./Passphrases-30xx --bits 25 -range 7777 -inputAddress addresses.txt -d 0``` (free range 1 - 10000)</br>
 
-Run: ```root@C.4115552:~$ chmod +x Words```</br>
-Run: ```root@C.4115552:~$ ./Words --bits 25 -range 10001 -inputAddress addresses.txt -d 0``` (free range 10001 - 12500)</br>
+Run: ```chmod +x Words```</br>
+Run: ```./Words --bits 25 -range 10001 -inputAddress addresses.txt -d 0``` (free range 10001 - 12500)</br>
 
 -d ? (GPU card number, id)</br>
 
@@ -76,7 +76,7 @@ I have many GPUs. How to start?</br>
 Run each GPU separately with a new range Add your card id -d ?</br>
 
 ```Passphrases-30xx.exe --bits 25 -range 777 -inputAddress addresses.txt -d 0```</br>
-```Passphrases-30xx.exe --bits 25 -range 833 -inputAddress addresses.txt -d 1```</br>
+```Passphrases-30xx.exe --bits 25 -range 2323 -inputAddress addresses.txt -d 1```</br>
 ```Passphrases-30xx.exe --bits 25 -range 5555 -inputAddress addresses.txt -d 2```</br>
 ```Passphrases-30xx.exe --bits 25 -range 6767 -inputAddress addresses.txt -d 3```</br>
 ```Passphrases-30xx.exe --bits 25 -range 8888 -inputAddress addresses.txt -d 4```</br>
@@ -86,7 +86,7 @@ Where can I get a base of addresses to start?</br>
 You can download the database of addresses [**HERE**](https://github.com/phrutis/Passphrases/releases/tag/1.0)<hr>
 
 Why did the program freeze at startup?</br>
-She didn't hang up! Program start --bits25 (25-30 min.)</br>
+She didn't hang up! Program start --bits25 (20-25 min.)</br>
 The program creates tables and downloads to the device</br>
 One card requires 4GB or more of RAM to work.</br>
 The consumption depends on the size of the table (-bits) and the size of the address file.<hr>
@@ -119,10 +119,10 @@ Write me a private message in telegram phrutis<hr>
 
 What are we looking for?</br>
 ```Passphrases.exe``` - all possible combinations + spec. symbols</br>
-Length 7, 8, 9, (10 - top 1000 ranges)</br>
+Length 8, 9, (10 - top 1000 ranges)</br>
 Example: pass7a0**Z, SaTellitE, %#j)xQ78~"</br>
 ```Words.exe``` - Create words from letters (Length 10-13) and form sentences from words</br>
-Example: good bitcoin, substance btc, real password, ho ho ho ho<hr>
+Example: good bitcoin, substance btc, real password<hr>
 
 What is HEX id?</br>
 When you pass the range by 100%, the program will end the search.</br>
@@ -178,7 +178,7 @@ aabbccddd -> aabbccdde -> aabbc(0d8 -> aabH$&@#*</br>
 Finish: aacZZZZZZZ<hr>
 
 Is this theft?</br>
-If the found address is 5-10 years old without movement, it is a lost coin.<hr>
+If the found address is 5-12 years old without movement, it is a lost coin.<hr>
 
 What are the best ranges to look for?</br>
 Where are the chances?</br>
