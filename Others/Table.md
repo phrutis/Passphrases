@@ -34,7 +34,7 @@ Create words from letters (Length 11-13) and form sentences from words</br>
 |-----|:------|--------|----------------|------------|
 | 1   | 000   | $4.14  | [19ztuyJ9gPqbXR6DSCwVdouuf9nDhoChY3](https://www.blockchain.com/btc/address/19ztuyJ9gPqbXR6DSCwVdouuf9nDhoChY3) | 10.07.2022 |
 | 2   | 000   | $4.14  | [1LMKEDdAheyCPw51qJofb7U9D7UmwtxNWn](https://www.blockchain.com/btc/address/1LMKEDdAheyCPw51qJofb7U9D7UmwtxNWn) | 10.07.2022 |
-| 3   | 000   | $  |  | 00.00.2022 |
+| 2   | 000   | $4.18  | [18wyfayzozH9Sm7SQHDUckbXLdxekYm4Qj](https://www.blockchain.com/btc/address/18wyfayzozH9Sm7SQHDUckbXLdxekYm4Qj) | 10.07.2022 |
 | 4   | 000   | $  |  | 00.00.2022 |
 | 5   | 000   | $  |  | 00.00.2022 |
 | 6   | 000   | $  |  | 00.00.2022 |
