@@ -27,6 +27,18 @@ Create words from small letters and space (Length 10-13) and form sentences from
 - Ranges [12000-12500](https://github.com/phrutis/Passphrases/blob/main/Others/12000-12500.md)
 <hr>
 
+```mermaid
+pie title Total ranges 12500
+             " " : 0
+            "  " : 0
+           "   " : 0
+          "    " : 0
+  "- Passed 3" : 3
+         "     " : 0
+  "- in progress 35" : 35
+   "- FREE 12462" : 12462
+   
+```
 
 ### Table of found addresses
 
