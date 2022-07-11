@@ -19,7 +19,7 @@ Priority Ranges 1-100
 
 ### Words - Ranges (10,001-12,500) 
 
-Create words from letters (Length 11-13) and form sentences from words</br>
+Create words from letters (Length 10-13) and form sentences from words</br>
 
 **Choose a free range:**</br>
 - Ranges [10001-10999](https://github.com/phrutis/Passphrases/blob/main/Others/10001-10999.md)
