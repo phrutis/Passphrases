@@ -97,13 +97,8 @@ It is recommended to use only OLD addresses 1... from 2$ ($10)<hr>
 
 How to continue searching after stopping the program?</br>
 The program saves the position every 2-3 minutes.</br>
-windows run bat file continuation.bat</br>
+Windows run bat file continuation.bat</br>
 Linux copy the startup line from the tex file Continued and run the program.<hr>
-
-How to continue searching after stopping the program?</br>
-For Windows run bat file Countinue.bat</br>
-For Linux, open a Continue.txt, copy the line and run</br>
-The program will continue searching from the last checkpoint<hr>
 
 Explain what we are looking for?</br>
 How it works? What's this?</br>
