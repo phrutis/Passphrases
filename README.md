@@ -1,17 +1,5 @@
 ## Find Lost Bitcoin Passphrases
 
-```mermaid
-pie title Total ranges 12500
-             " " : 0
-            "  " : 0
-           "   " : 0
-          "    " : 0
-  "- Passed 3" : 3
-         "     " : 0
-  "- in progress 35" : 35
-   "- FREE 12462" : 12462
-   
-```
 **Find your lost passphrase get 50% of the find**</br>
 Search passphrases on the fastest program in the world</br>
 [18,972](https://allprivatekeys.com/hacked-brainwallets-with-balance) passphrases were found, an estimated 5,000 passphrases are lost</br>
