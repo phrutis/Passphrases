@@ -6,7 +6,6 @@ Search passphrases on the fastest program in the world</br>
 They were found on a processor with a maximum speed of 100,000 characters per second.</br>
 Challenge Speed 3090 = 180,000,000/sec. It's 1800 times faster.</br>
 The fact that one 3090 GPU runs in 24 hours is a [legendary CPU program](https://github.com/ryancdotorg/brainflayer) in 5 years.</br>
-Table of finds of our hunters - [**HERE**](https://github.com/phrutis/Passphrases/blob/main/Others/Table.md#table-of-found-addresses)
 
 How to search for old lost passphrases:</br>
 If you have a GPU and are ready to search for a key **24/7**</br>
