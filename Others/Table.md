@@ -4,10 +4,10 @@ pie title Total ranges 12500
             "  " : 0
            "   " : 0
           "    " : 0
-  "- Passed 4" : 4
+  "- Passed 7" : 7
          "     " : 0
-  "- in progress 36" : 36
-   "- FREE 12460" : 12460
+  "- in progress 38" : 38
+   "- FREE 12455" : 12455
    
 ```
 
