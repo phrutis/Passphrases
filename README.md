@@ -105,8 +105,8 @@ Write me a private message in telegram phrutis<hr>
 
 What are we looking for?</br>
 ```Passphrases.exe``` - all possible combinations + spec. symbols</br>
-Length 8, 9, (10 - top 1000 ranges)</br>
-Example: pass7a0**Z, SaTellitE, %#j)xQ78~"</br>
+Length 8, 9</br>
+Example: paxx7a0*Z, SaTellitE, %#j)xQ78~"</br>
 ```Words.exe``` - Create words from letters (Length 10-13) and form sentences from words</br>
 Example: good bitcoin, substance btc, real password<hr>
 
@@ -160,8 +160,8 @@ This is a small part of the given symbols for passing a certain segment.</br>
 All possible characters are applied (including special characters)</br>
 Example range 7777</br>
 Start characters: 
-aabbccddd -> aabbccdde -> aabbc(0d8 -> aabH$&@#*</br>
-Finish: aacZZZZZZZ<hr>
+abbccddd -> abbccdde -> abbc(0d8 -> abH$&@#*</br>
+Finish: acZZZZZZZ<hr>
 
 Is this theft?</br>
 If the found address is 5-12 years old without movement, it is a lost coin.<hr>
