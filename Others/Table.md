@@ -12,7 +12,7 @@ pie title Total ranges 12500
 ```
 
 ### Passphrases - Ranges (1-10,000)
-All possible combinations length Length 8,9, (10-top 1000 ranges) symbols</br>
+All possible combinations length Length 8-9 symbols</br>
 
 Priority Ranges 1-100
 
