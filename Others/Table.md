@@ -1,16 +1,3 @@
-```mermaid
-pie title Total ranges 12500
-             " " : 0
-            "  " : 0
-           "   " : 0
-          "    " : 0
-  "- Passed 7" : 7
-         "     " : 0
-  "- in progress 38" : 38
-   "- FREE 12455" : 12455
-   
-```
-
 ### Passphrases - Ranges (1-10,000)
 All possible combinations length Length 8-9 symbols</br>
 
