@@ -69,7 +69,7 @@ Run each GPU separately with a new range Add your card id -d ?</br>
 If you have any difficulties with the launch, you can ask in telegram [**GPU group**](https://t.me/+WFEuFatijpowMjRi)<hr>
 
 Where can I get a base of addresses to start?</br>
-You can download the database of addresses [**HERE**](https://github.com/phrutis/Passphrases/releases/tag/1.0)<hr>
+You can download the database of addresses [**HERE**](https://github.com/phrutis/Passphrases/releases/tag/3.0)<hr>
 
 Why did the program freeze at startup?</br>
 She didn't hang up! Program start --bits25 (20-25 min.)</br>
