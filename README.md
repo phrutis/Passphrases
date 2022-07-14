@@ -48,7 +48,7 @@ Run: ```./Words --bits 25 -range 10001 -inputAddress addresses.txt -d 0``` (free
 | 3050       | 24          | 45 Mkeys    | 17 days       |
 | 2080 Ti    | 24          |  ? Mkeys    | ?? days       |
 | 2080       | 24          |  ? Mkeys    | ?? days       |
-| 2070       | 24          |  ? Mkeys    | ?? days       |
+| 2070       | 24          | 50 Mkeys    | 14 days       |
 | 2060       | 23          | 45 Mkeys    | 16 days       |
 
 
