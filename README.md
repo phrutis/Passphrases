@@ -27,16 +27,9 @@ Run ```Passphrases-30xx.exe --bits 25 -range 777 -inputAddress addresses.txt -d 
 
 ![Passphrases](https://user-images.githubusercontent.com/82582647/179367685-c60636c8-3d6f-4cd4-a0e7-f8fc283e8d6a.png)
 
-Run ```Words-30xx.exe --bits 25 -range 10001 -inputAddress addresses.txt -d 0``` (free range 10001 - 12500)
-
-![words](https://user-images.githubusercontent.com/82582647/179368388-c4c6ae61-5974-4905-84e3-ec9ad1b6e785.png)
-
 Linux:</br>
 Run: ```chmod +x Passphrases-30xx```</br>
 Run: ```./Passphrases-30xx --bits 25 -range 7777 -inputAddress addresses.txt -d 0``` (free range 1 - 10000)</br>
-
-Run: ```chmod +x Words-30xx```</br>
-Run: ```./Words-30xx --bits 25 -range 10001 -inputAddress addresses.txt -d 0``` (free range 10001 - 12500)</br>
 
 -d ? (GPU card number, id)</br>
 
@@ -111,9 +104,7 @@ Write me a private message in telegram phrutis<hr>
 What are we looking for?</br>
 ```Passphrases-30xx.exe``` - all possible combinations + spec. symbols</br>
 Length 8, 9</br>
-Example: paxx7a0*Z, SaTellitE, %#j)xQ78~"</br>
-```Words-30xx.exe``` - Create words from letters (Length 10-12) and form sentences from words</br>
-Example: good bitcoin, substance ok, new password<hr>
+Example: paxx7a0*Z, SaTellitE, %#j)xQ78~"<hr>
 
 What is HEX id?</br>
 When you pass the range by 100%, the program will end the search.</br>
