@@ -24,14 +24,19 @@ This will save you from re-passing and confusion. This will speed up the search.
 
 Windows:</br>
 Run ```Passphrases-30xx.exe --bits 25 -range 777 -inputAddress addresses.txt -d 0``` (free range 1 - 10000)</br>
+
+![Passphrases](https://user-images.githubusercontent.com/82582647/179367685-c60636c8-3d6f-4cd4-a0e7-f8fc283e8d6a.png)
+
 Run ```Words-30xx.exe --bits 25 -range 10001 -inputAddress addresses.txt -d 0``` (free range 10001 - 12500)
+
+![words](https://user-images.githubusercontent.com/82582647/179368388-c4c6ae61-5974-4905-84e3-ec9ad1b6e785.png)
 
 Linux:</br>
 Run: ```chmod +x Passphrases-30xx```</br>
 Run: ```./Passphrases-30xx --bits 25 -range 7777 -inputAddress addresses.txt -d 0``` (free range 1 - 10000)</br>
 
-Run: ```chmod +x Words```</br>
-Run: ```./Words --bits 25 -range 10001 -inputAddress addresses.txt -d 0``` (free range 10001 - 12500)</br>
+Run: ```chmod +x Words-30xx```</br>
+Run: ```./Words-30xx --bits 25 -range 10001 -inputAddress addresses.txt -d 0``` (free range 10001 - 12500)</br>
 
 -d ? (GPU card number, id)</br>
 
