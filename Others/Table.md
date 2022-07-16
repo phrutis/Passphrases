@@ -1,4 +1,4 @@
-### Passphrases - Ranges (1-10,000)
+### Passphrases - Ranges (1-10000)
 All possible combinations length Length 8-9 symbols</br>
 
 Priority Ranges 1-100
@@ -15,15 +15,5 @@ Priority Ranges 1-100
 - Ranges [7000-7999](https://github.com/phrutis/Passphrases/blob/main/Others/7000-7999.md)
 - Ranges [8000-8999](https://github.com/phrutis/Passphrases/blob/main/Others/8000-8999.md)
 - Ranges [9000-9999](https://github.com/phrutis/Passphrases/blob/main/Others/9000-9999.md)
-<hr>
-
-### Words - Ranges (10,001-12,500) 
-
-Create words from small letters and space (Length 10-13) and form sentences from words</br>
-
-**Choose a free range:**</br>
-- Ranges [10001-10999](https://github.com/phrutis/Passphrases/blob/main/Others/10001-10999.md)
-- Ranges [11000-11999](https://github.com/phrutis/Passphrases/blob/main/Others/11000-11999.md)
-- Ranges [12000-12500](https://github.com/phrutis/Passphrases/blob/main/Others/12000-12500.md)
 <hr>
 
