@@ -24,7 +24,7 @@ This will save you from re-passing and confusion. This will speed up the search.
 
 Windows:</br>
 Run ```Passphrases-30xx.exe --bits 25 -range 777 -inputAddress addresses.txt -d 0``` (free range 1 - 10000)</br>
-Run ```Words.exe --bits 25 -range 10001 -inputAddress addresses.txt -d 0``` (free range 10001 - 12500)
+Run ```Words-30xx.exe --bits 25 -range 10001 -inputAddress addresses.txt -d 0``` (free range 10001 - 12500)
 
 Linux:</br>
 Run: ```chmod +x Passphrases-30xx```</br>
@@ -104,11 +104,11 @@ Do not tell anyone the found key!</br>
 Write me a private message in telegram phrutis<hr>
 
 What are we looking for?</br>
-```Passphrases.exe``` - all possible combinations + spec. symbols</br>
+```Passphrases-30xx.exe``` - all possible combinations + spec. symbols</br>
 Length 8, 9</br>
 Example: paxx7a0*Z, SaTellitE, %#j)xQ78~"</br>
-```Words.exe``` - Create words from letters (Length 10-13) and form sentences from words</br>
-Example: good bitcoin, substance btc, real password<hr>
+```Words-30xx.exe``` - Create words from letters (Length 10-12) and form sentences from words</br>
+Example: good bitcoin, substance ok, new password<hr>
 
 What is HEX id?</br>
 When you pass the range by 100%, the program will end the search.</br>
