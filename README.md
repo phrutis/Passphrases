@@ -112,7 +112,7 @@ It will be written in the window.</br>
 Range 1234 - Passed</br>
 HEX id XXX......</br>
 A text file PASSED-HASHES.txt is also created
-Send in telegram phrutis</br>
+Send in telegram [**GPU group**](https://t.me/+WFEuFatijpowMjRi)</br>
 Range number and HEX id.</br>
 I will mark in the table that the range has been passed.</br>
 This is done so that hunters do not take already passed ranges and do not pass the same thing.</br>
