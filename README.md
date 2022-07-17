@@ -15,7 +15,7 @@ For some users, [**renting**](https://vast.ai) is cheaper than searching on thei
 When renting, you must take into account the risk that the key may not be found at all.</br> 
 You may incur losses. Think of it not as earnings, but as a lottery.
 
-In the [**TABLE**](https://github.com/phrutis/Passphrases/blob/main/Others/Table.md), select a **FREE** range between 1-12500
+In the [**TABLE**](https://github.com/phrutis/Passphrases/blob/main/Others/Table.md), select a **FREE** range between 1-10000
 
 **Write in telrgram phrutis start 1234** (the range you took)</br>
 I will add your range to [table](https://github.com/phrutis/Passphrases/blob/main/Others/Table.md) in progress</br>
@@ -73,16 +73,16 @@ Why did the program freeze at startup?</br>
 She didn't hang up! Program start --bits25 (20-25 min.)</br>
 The program creates tables and downloads to the device</br>
 One card requires 4GB or more of RAM to work.</br>
-The consumption depends on the size of the table (-bits) and the size of the address file.<hr>
+The consumption depends on the size of the table (--bits) and the size of the address file.<hr>
 
 What address formats can be uploaded?</br>
 All bc.., 3.., 1.., in a text file from a new line</br>
-It is recommended to use only OLD addresses 1... from 2$ ($10)<hr>
+It is recommended to use only OLD addresses 1... from 2$<hr>
 
 How to continue searching after stopping the program?</br>
 The program saves the position every 2-3 minutes.</br>
-Windows run bat file continuation.bat</br>
-Linux copy the startup line from the tex file Continued and run the program.<hr>
+Windows run bat file 7777_0_Continue.bat</br>
+Linux copy the startup line from the tex file 7777_0_Continue.txt and run the program.<hr>
 
 Explain what we are looking for?</br>
 How it works? What's this?</br>
@@ -93,10 +93,10 @@ The program checks against the database of addresses with a positive balance.<hr
 
 I found. What to do?</br>
 When you find the passphrase, a message will appear in the window.</br>
-===== FOUND =====</br>
-Address: 1......</br>
-Privkey: XXX....</br>
-=================</br>
+====== FOUND ======</br>
+* Address: 1...... *</br>
+* Privkey: XXX.... *</br>
+===================</br>
 The address and key will also be written to the text file FOUND.txt</br>
 Do not tell anyone the found key!</br>
 Write me a private message in telegram phrutis<hr>
@@ -123,11 +123,6 @@ The program creates the necessary tables and stores them in memory.<hr>
 
 Does the program require an internet connection?</br>
 No, the program is looking for the key offline.<hr>
-
-Is your program working?</br>
-I did not find anything, the problem is in the program.</br>
-The program works correctly, it has been tested many times.</br>
-If you have any doubts, you can go and find the found address from the find table<hr>
 
 Why is the program without source codes?</br>
 The program includes a range, decoders and more.</br>
