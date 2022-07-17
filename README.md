@@ -17,7 +17,7 @@ You may incur losses. Think of it not as earnings, but as a lottery.
 
 In the [**TABLE**](https://github.com/phrutis/Passphrases/blob/main/Others/Table.md), select a **FREE** range between 1-10000
 
-**Write in telrgram phrutis start 1234** (the range you took)</br>
+**Write in telrgram [**GPU group**](https://t.me/+WFEuFatijpowMjRi) start 1234** (the range you took)</br>
 I will add your range to [table](https://github.com/phrutis/Passphrases/blob/main/Others/Table.md) in progress</br>
 This is to keep your range from being picked up by other hunters.</br>
 This will save you from re-passing and confusion. This will speed up the search.</br>
@@ -94,8 +94,8 @@ The program checks against the database of addresses with a positive balance.<hr
 I found. What to do?</br>
 When you find the passphrase, a message will appear in the window.</br>
 ====== FOUND ======</br>
-* Address: 1...... *</br>
-* Privkey: XXX.... *</br>
+Address: 1.....</br>
+Privkey: XXX...</br>
 ===================</br>
 The address and key will also be written to the text file FOUND.txt</br>
 Do not tell anyone the found key!</br>
