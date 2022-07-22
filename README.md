@@ -36,18 +36,19 @@ Run: ```./Passphrases-30xx --bits 25 -range 7777 -inputAddress addresses.txt -d 
 | GPU card   | --bits      | Speed       | Time          |
 |------------|:------------|-------------|---------------|
 | A100       | 26          | 200 Mkeys   | 3 days        |
-| A6000      | 25          | 180 Mkeys   | 4 days        |
-| 3090       | 25          | 180 Mkeys   | 4 days        |
-| 3080 Ti    | 24          | 170 Mkeys   | 4 days        |
-| 3080       | 24          | 150 Mkeys   | 5 days        |
-| 3070 Ti    | 24          | 120 Mkeys   | 6 days        |
-| 3070       | 24          | 90 Mkeys    | 8 days        |
-| 3060       | 24          | 70 Mkeys    | 10 days       |
+| A6000      | 25          | 180 Mkeys   | 3 days        |
+| 3090       | 25          | 180 Mkeys   | 3 days        |
+| 3080 Ti    | 24          | 170 Mkeys   | 3 days        |
+| 3080       | 24          | 150 Mkeys   | 4 days        |
+| 3070 Ti    | 24          | 120 Mkeys   | 5 days        |
+| 3070       | 24          | 90 Mkeys    | 7 days        |
+| 3060       | 24          | 70 Mkeys    | 9 days        |
 | 3050       | 24          | 45 Mkeys    | 17 days       |
 | 2080 Ti    | 24          |  ? Mkeys    | ?? days       |
-| 2080       | 24          |  ? Mkeys    | ?? days       |
-| 2070       | 24          | 50 Mkeys    | 14 days       |
-| 2060       | 23          | 45 Mkeys    | 16 days       |
+| 2080 S     | 24          | 70 Mkeys    | 9 days       |
+| 2080       | 24          | ?? Mkeys    | ?? days       |
+| 2070       | 24          | 50 Mkeys    | 11 days       |
+| 2060       | 23          | 45 Mkeys    | 12 days       |
 
 
 For general questions, you can join a [**GPU group**](https://t.me/+WFEuFatijpowMjRi) of hunters.</br>
