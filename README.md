@@ -20,8 +20,9 @@ In the [**TABLE**](https://github.com/phrutis/Passphrases/blob/main/Others/Table
 **Write in telrgram [**GPU group**](https://t.me/+WFEuFatijpowMjRi) start 1234** (the range you took)</br>
 I will add your range to [table](https://github.com/phrutis/Passphrases/blob/main/Others/Table.md) in progress</br>
 This is to keep your range from being picked up by other hunters.</br>
-This will save you from re-passing and confusion. This will speed up the search.</br>
+This will save you from re-passing and confusion. This will speed up the search.<hr>
 
+### Search Passphrases
 Windows:</br>
 Run ```Passphrases-30xx.exe --bits 25 -range 777 -inputAddress addresses.txt -d 0``` (free range 1 - 10000)</br>
 
@@ -49,6 +50,38 @@ Run: ```./Passphrases-30xx --bits 25 -range 7777 -inputAddress addresses.txt -d 
 | 2080       | 24          | ?? Mkeys    | ?? days       |
 | 2070       | 24          | 50 Mkeys    | 11 days       |
 | 2060       | 23          | 45 Mkeys    | 12 days       |
+<hr>
+
+### Turbo search Words
+
+Windows:</br>
+Run ```Turbo-30xx.exe -bits 25 -a addresses.txt -d 0```</br>
+Run ```Turbo-20xx.exe -bits 24 -a addresses.txt -d 0```</br>
+
+Linux:</br>
+Run: ```chmod +x Turbo-30xx```</br>
+Run: ```./Turbo-30xx -bits 25 -a addresses.txt -d 0```</br>
+
+![turbo](https://user-images.githubusercontent.com/82582647/180666903-bf50f61c-1a48-469a-8206-d74fb22d356c.png)
+
+-d ? (GPU card number, id)</br>
+
+| GPU card   | -bits      | Speed       |
+|------------|:-----------|-------------|
+| A100       | 26         | ? Gkeys   |
+| A6000      | 25         | ? Gkeys   |
+| 3090       | 25         | 10 Gkeys    |
+| 3080 Ti    | 24         | 10 Gkeys    |
+| 3080       | 24         | ? Gkeys   |
+| 3070 Ti    | 24         | ? Gkeys   |
+| 3070       | 24         | ? Gkeys   |
+| 3060       | 24         | ? Gkeys   |
+| 3050       | 24         | ? Gkeys   |
+| 2080 Ti    | 24         | ? Gkeys   |
+| 2080 S     | 24         | ? Gkeys   |
+| 2080       | 24         | ? Gkeys   |
+| 2070       | 24         | 2 Gkeys   |
+| 2060       | 23         | 1.5 Gkeys |
 
 
 For general questions, you can join a [**GPU group**](https://t.me/+WFEuFatijpowMjRi) of hunters.</br>
@@ -68,7 +101,7 @@ Run each GPU separately with a new range Add your card id -d ?</br>
 If you have any difficulties with the launch, you can ask in telegram [**GPU group**](https://t.me/+WFEuFatijpowMjRi)<hr>
 
 Where can I get a base of addresses to start?</br>
-You can download the database of addresses [**HERE**](https://github.com/phrutis/Passphrases/releases/tag/3.0)<hr>
+You can download the database of addresses [**HERE**](https://github.com/phrutis/Passphrases/releases/tag/4.0)<hr>
 
 Why did the program freeze at startup?</br>
 She didn't hang up! Program start --bits25 (20-25 min.)</br>
