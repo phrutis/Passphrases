@@ -139,7 +139,12 @@ After adding 7 characters to a word, it is randomized again.</br>
 Length from 10-15 characters.</br>
 Each private key derivation from sha256 is 100% random.</br>
 This gives an additional chance to find a private key collision.</br>
-More speed, more chances.<hr>
+More speed, more chances.</br>
+
+The program works randomly, there is no continuation, there are no ranges.</br>
+If the program is found, it will stop in the window there will be a message FOUND</br>
+The key will also be written to file FOUND.txt</br>
+Run the program to continue<hr>
 
 I found. What to do?</br>
 When you find the passphrase, a message will appear in the window.</br>
