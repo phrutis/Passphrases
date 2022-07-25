@@ -110,7 +110,7 @@ The consumption depends on the size of the table (--bits) and the size of the ad
 
 What address formats can be uploaded?</br>
 All bc.., 3.., 1.., in a text file from a new line</br>
-It is recommended to use only OLD addresses 1... from 2$<hr>
+It is recommended to use only [OLD addresses 1... from $2](https://github.com/phrutis/Passphrases/releases/tag/4.0)<hr>
 
 How to continue searching after stopping the program?</br>
 The program saves the position every 2-3 minutes.</br>
@@ -184,8 +184,7 @@ No, you will find BTC address and the encrypted key.</br>
 Only the organizers of the challenge can decrypt this key and pay you a 50% from balance<hr>
 
 Can you sell me the full version of the program?</br>
-No, the program is not for sale.</br>
-It doesn't make sense to sell the goose that lays the golden eggs.<hr>
+No, the program is not for sale.<hr>
 
 What guarantees are there that you will pay me 50% when I find the private key?</br>
 If you have found several addresses, start small and build up.</br>
