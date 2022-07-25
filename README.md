@@ -62,8 +62,7 @@ Linux:</br>
 Run: ```chmod +x Turbo-30xx```</br>
 Run: ```./Turbo-30xx -bits 25 -a addresses.txt -d 0```</br>
 
-![turbo](https://user-images.githubusercontent.com/82582647/180666903-bf50f61c-1a48-469a-8206-d74fb22d356c.png)
-
+![turbo](https://user-images.githubusercontent.com/82582647/180820779-29ffaf0b-1b7a-4425-b69b-a48026c1fd02.png)</br>
 -d ? (GPU card number, id)</br>
 
 | GPU card   | -bits      | Speed :rocket: |
