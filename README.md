@@ -52,7 +52,7 @@ Run: ```./Passphrases-30xx --bits 25 -range 7777 -inputAddress addresses.txt -d 
 | 2060       | 23          | 45 Mkeys    | 12 days       |
 <hr>
 
-### Turbo search Words :rocket:
+### :rocket: Turbo search Words :rocket:
 
 Windows:</br>
 Run ```Turbo-30xx.exe -bits 25 -a addresses.txt -d 0```</br>
@@ -85,7 +85,6 @@ Run: ```./Turbo-30xx -bits 25 -a addresses.txt -d 0```</br>
 
 
 For general questions, you can join a [**GPU group**](https://t.me/+WFEuFatijpowMjRi) of hunters.</br>
-**Do not write in the group the numbers you are looking for, do not report the finds.**
 
 ## Frequently asked Questions
 ### Question answer:
@@ -213,9 +212,6 @@ What are the best ranges to look for?</br>
 Where are the chances?</br>
 I think 1-100, but you just need to hope for luck<hr>
 
-I have other questions.</br>
-Write questions in a telegram [**GPU group**](https://t.me/+WFEuFatijpowMjRi)<hr>
-
 ### A little explanation about the program in two modes.</br>
 The first mode is clear.</br>
 The letters are converted to sha256 at the output, we get a private key.</br>
@@ -231,4 +227,7 @@ There is a high probability of finding a collision.</br>
 Thus, you can find an address from the address database that was not originally created from a passphrase.</br>
 Perhaps it was generated randomly, it's just that its private key matches the passphrase.</br>
 If you find an address with recent transactions, I advise you not to touch it. It's someone's savings.</br>
-#### We are looking for old coins (no movement), lost ones!</br>
+#### We are looking for old coins (no movement), lost ones!<hr>
+
+I have other questions.</br>
+Write questions in a telegram [**GPU group**](https://t.me/+WFEuFatijpowMjRi)<hr>
