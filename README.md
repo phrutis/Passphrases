@@ -127,14 +127,19 @@ The program checks against the database of addresses with a positive balance.<hr
 
 What is the Turbo program looking for?</br>
 This is an experimental program!</br>
-A new generation algorithm has been added due to this, the speed has increased.</br>
+A new algorithm has been added, the speed has increased.</br>
+
 The program randomly generates letters of the alphabet.</br>
-Letters pass through the filter of three identical letters in a row.</br>
-Since there are no words in which there are 3 (4,5,6,7,8...) identical letters, aAa -> aAb is replaced.</br>
-In total, more than 230 basic replacement variations + thousands of additional ones.</br>
-Words are formed to which values ​​are sequentially added.</br>
-After adding 7 characters, the words are randomized again.</br>
-Each private key output from sha256 is 100% random.</br>
+The generated words go through a search filter for three identical letters in a row.</br>
+Since there are no words in English in which 3 (4,5,6,7,8 ...) identical letters are in a row, such combinations are replaced by the following one.</br>
+Busting aaaaaaaaaa - aaaaaaaaab is a waste of time.</br>
+The combination aAa -> aAb is replaced so we will reduce the search time for a word by 10,000,000 times.</br>
+
+In total, more than 230 basic replacement options + thousands of additional ones.</br>
+Word(s) are formed, to which values ​​are sequentially added.</br>
+After adding 7 characters to a word, it is randomized again.</br>
+Length from 10-15 characters.</br>
+Each private key derivation from sha256 is 100% random.</br>
 This gives an additional chance to find a private key collision.</br>
 More speed, more chances.<hr>
 
