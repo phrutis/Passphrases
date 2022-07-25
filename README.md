@@ -52,7 +52,7 @@ Run: ```./Passphrases-30xx --bits 25 -range 7777 -inputAddress addresses.txt -d 
 | 2060       | 23          | 45 Mkeys    | 12 days       |
 <hr>
 
-### Turbo search Words
+### Turbo search Words :rocket:
 
 Windows:</br>
 Run ```Turbo-30xx.exe -bits 25 -a addresses.txt -d 0```</br>
@@ -66,7 +66,7 @@ Run: ```./Turbo-30xx -bits 25 -a addresses.txt -d 0```</br>
 
 -d ? (GPU card number, id)</br>
 
-| GPU card   | -bits      | Speed       |
+| GPU card   | -bits      | Speed :rocket: |
 |------------|:-----------|-------------|
 | A100       | 26         | ? Gkeys   |
 | A6000      | 25         | ? Gkeys   |
@@ -124,6 +124,19 @@ How it works? What's this?</br>
 Enter passphrase: fhqyqzhao123 pay attention to the address 1MVFUmYLKmLyC1m3WfyHkEJTZfoHjwDeXE</br>
 The difference is that instead of requests to the blockchain.</br> 
 The program checks against the database of addresses with a positive balance.<hr>
+
+What is the Turbo program looking for?</br>
+This is an experimental program!</br>
+A new generation algorithm has been added due to this, the speed has increased.</br>
+The program randomly generates letters of the alphabet.</br>
+Letters pass through the filter of three identical letters in a row.</br>
+Since there are no words in which there are 3 (4,5,6,7,8...) identical letters, aAa -> aAb is replaced.</br>
+In total, more than 230 basic replacement variations + thousands of additional ones.</br>
+Words are formed to which values ​​are sequentially added.</br>
+After adding 7 characters, the words are randomized again.</br>
+Each private key output from sha256 is 100% random.</br>
+This gives an additional chance to find a private key collision.</br>
+More speed, more chances.<hr>
 
 I found. What to do?</br>
 When you find the passphrase, a message will appear in the window.</br>
