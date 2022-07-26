@@ -162,7 +162,7 @@ It's been 10-20 hours you haven't paid me my 50%</br>
 1. Don't worry, there will be a payout.</br>
 2. Different time zones.</br>
 3. At the computer only in the evening.</br>
-4. WIF import to bitcoim core takes 5-6 hours.</br>
+4. WIF import to Bitcoin Core takes 5-6 hours.</br>
 5. Perhaps another WIF is indexed.</br>
 
 There are other factors.<hr>
