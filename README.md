@@ -156,10 +156,20 @@ The address and key will also be written to the text file FOUND.txt</br>
 Do not tell anyone the found key!</br>
 Write me a private message in telegram phrutis<hr>
 
+I found sent you the key and payout address.</br>
+It's been 10-20 hours you haven't paid me my 50%</br>
+
+1. Don't worry, there will be a payout.</br>
+2. Different time zones.</br>
+3. At the computer only in the evening.</br>
+4. WIF import to bitcoim core takes 5-6 hours.</br>
+5. Perhaps another WIF is indexed.</br>
+
+There are other factors.<hr>
+
 What are we looking for?</br>
 ```Passphrases-30xx.exe``` - all possible combinations + spec. symbols</br>
-Length 8, 9</br>
-Example: paxx7a0*Z, SaTellitE, %#j)xQ78~"<hr>
+Length 8, 9. Example: paxx7a0*Z, SaTellitE, %#j)xQ78~"<hr>
 
 What is HEX id?</br>
 When you pass the range by 100%, the program will end the search.</br>
