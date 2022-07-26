@@ -74,7 +74,7 @@ Run: ```./Turbo-30xx -bits 25 -a addresses.txt -d 0```</br>
 | 3080       | 24         | 8.5 Gkeys |
 | 3070 Ti    | 24         | ? Gkeys   |
 | 3070       | 24         | ? Gkeys   |
-| 3060       | 24         | ? Gkeys   |
+| 3060       | 24         | 4 Gkeys   |
 | 3050       | 24         | 2.8 Gkeys |
 | 2080 Ti    | 24         | ? Gkeys   |
 | 2080 S     | 24         | 4.1 Gkeys |
